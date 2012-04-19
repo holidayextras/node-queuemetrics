@@ -1,0 +1,20 @@
+{
+  "author": "Dan Jenkins <dan.jenkins@holidayextras.com> (http://www.holidayextras.co.uk/)",
+  "name": "queuemetrics",
+  "description": "Interface for the Queuemetrics API",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/holidayextras/node-queuemetrics.git"
+  },
+  "main": "./index",
+  "dependencies": {},
+  "keywords": [
+    "asterisk",
+    "queuemetrics",
+    "voip"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}
